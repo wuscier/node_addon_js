@@ -1,0 +1,20 @@
+{
+  "name": "node_addon_js",
+  "version": "1.0.0",
+  "description": "first node addon with js",
+  "main": "myPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuscier/node_addon_js.git"
+  },
+  "keywords": ["node","plugin","js"],
+  "author": "wuscier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuscier/node_addon_js/issues"
+  },
+  "homepage": "https://github.com/wuscier/node_addon_js#readme"
+}
